@@ -1,0 +1,2 @@
+vhdtdtfi -lang verilog -prj project1 -o "F:/ali/home work/verilog/project/project1/food_seller.tfi" -lib work "F:/ali/home work/verilog/project/project1//food_seller.v" -module food_seller -template E:/xilinx/setup/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror 
+vhdtdtfi -lang verilog -prj project1 -o "F:/ali/home work/verilog/project/project1/food_seller.tfi" -lib work "F:/ali/home work/verilog/project/project1//food_seller.v" -module food_seller -template E:/xilinx/setup/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror 

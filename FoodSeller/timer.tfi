@@ -1,0 +1,12 @@
+
+
+
+// Instantiate the module
+timer instance_name (
+    .clk(clk), 
+    .en(en), 
+    .finish(finish), 
+    .rst_food(rst_food)
+    );
+
+

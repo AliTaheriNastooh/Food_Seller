@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="F:/ali/home work/verilog/project/project1/test3_isim_beh.wdb" id="1" type="auto">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="test3" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <WVObjectSize size="11" />
+   <wvobject fp_name="/test3/item1" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">item1[2:0]</obj_property>
+      <obj_property name="ObjectShortName">item1[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test3/available_item1" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">available_item1[2:0]</obj_property>
+      <obj_property name="ObjectShortName">available_item1[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test3/remaining_money1" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">remaining_money1[2:0]</obj_property>
+      <obj_property name="ObjectShortName">remaining_money1[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test3/clk" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test3/rst" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">rst</obj_property>
+      <obj_property name="ObjectShortName">rst</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test3/choice" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">choice[2:0]</obj_property>
+      <obj_property name="ObjectShortName">choice[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test3/money" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">money[2:0]</obj_property>
+      <obj_property name="ObjectShortName">money[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test3/uut/finsh1" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">finsh1</obj_property>
+      <obj_property name="ObjectShortName">finsh1</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test3/uut/finsh1" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">finsh1</obj_property>
+      <obj_property name="ObjectShortName">finsh1</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test3/uut/time1/finish" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">finish</obj_property>
+      <obj_property name="ObjectShortName">finish</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test3/uut/time1/counter" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">counter[3:0]</obj_property>
+      <obj_property name="ObjectShortName">counter[3:0]</obj_property>
+   </wvobject>
+</wave_config>

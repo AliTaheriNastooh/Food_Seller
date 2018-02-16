@@ -1,0 +1,5 @@
+verilog work "timer.v"
+verilog work "food_seller.v"
+verilog work "main.v"
+verilog work "test4.v"
+verilog work "E:/xilinx/setup/14.7/ISE_DS/ISE//verilog/src/glbl.v"

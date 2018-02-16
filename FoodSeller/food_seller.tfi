@@ -1,0 +1,18 @@
+
+
+
+// Instantiate the module
+food_seller instance_name (
+    .clk(clk), 
+    .rst(rst), 
+    .choice(choice), 
+    .money(money), 
+    .finish(finish), 
+    .en_timer(en_timer), 
+    .item(item), 
+    .available_item(available_item), 
+    .remaining_money(remaining_money), 
+    .rst_timer(rst_timer)
+    );
+
+

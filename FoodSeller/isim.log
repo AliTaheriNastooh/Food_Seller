@@ -1,0 +1,34 @@
+ISim log file
+Running: F:\ali\home work\verilog\project\project1\test4_isim_beh.exe -intstyle ise -gui -tclbatch isim.cmd -wdb F:/ali/home work/verilog/project/project1/test4_isim_beh.wdb 
+ISim P.20131013 (signature 0x7708f090)
+This is a Full version of ISim.
+Time resolution is 1 ps
+# onerror resume
+# wave add /
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+available item:ice cream , water,chips,soda
+remaining money:111
+please give your water
+available item:ice cream , water,chips,soda
+remaining money:101
+please give your ice cream
+available item:ice cream , water,chips,soda
+remaining money:100
+please choose another things because water end 
+available item:ice cream , water,chips,soda
+remaining money:100
+please give your ice cream
+available item:ice cream , water,chips
+remaining money:0011
+please give your chips
+end of your money and you havn't choice
+available item:ice cream , water,chips,soda
+remaining money:101
+please choose another things because icecream end 
+available item:ice cream , water,chips,soda
+remaining money:101
+your time is end and give yor remaining money
+available item:ice cream , water,chips,soda
+remaining money:101
